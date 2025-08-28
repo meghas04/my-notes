@@ -1,1 +1,3 @@
 Today I started learning GitHub.
+Day2 - started with troubleshooting token , SSH key issues .
+       Learning basics of GitHub
