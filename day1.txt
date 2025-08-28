@@ -3,3 +3,5 @@ Day2 - started with troubleshooting token , SSH key issues .
        Learning basics of GitHub
        doing hands on with creating txt file , editing, pushing to Github
 
+Checking
+how editing in Github reflects changes in local repository after pull request
